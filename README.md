@@ -1,3 +1,3 @@
-#Raven Tactical Equipment
+Raven Tactical Equipment
 
 Equipment custom made for Raven Tactical Arma group.
